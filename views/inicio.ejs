@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+    <title>Desafio</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Poppins', sans-serif;
+        }
+
+        html, body {
+            height: 100vh;
+        }
+
+        :root {
+            --teste: 1px solid red;
+            --color1: #da291c;
+            --color2: white;
+            --color3: #e64237;
+            --color4: #ccc;
+        }
+
+        body {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        h1 {
+            padding: 2vh 2vw;
+            background-color: var(--color1);
+            color: var(--color2);
+            border-radius: 10px;
+        }
+
+        strong {
+            color: var(--color1);
+        }
+
+        button {
+            background-color: var(--color1);
+            border: none;
+            padding: 2vh 10vw;
+            border-radius: 5px;
+            width: 100%;
+            color: var(--color2);
+            box-shadow: 0 3px 3px 3px #00000033;
+        }
+
+        button:active {
+            box-shadow: none;
+        }
+
+        p {
+            text-align: center;
+            margin: 2vh 0;
+        }
+
+    </style>
+</head>
+<body>
+    <div>
+        <h1>Jogo do Desconto</h1>
+        <p>Seja bem-vindo ao jogo do <strong>desconto</strong>.</p>
+        <a href="/jogo"><button>Entrar</button></a>
+    </div>
+</body>
+</html>

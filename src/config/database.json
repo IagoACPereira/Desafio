@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "produto": "TV"
+  },
+  {
+    "id": 1,
+    "produto": "BANDA LARGA"
+  },
+  {
+    "id": 2,
+    "produto": "SMARTPHONE"
+  },
+  {
+    "id": 3,
+    "produto": "BANDA LARGA"
+  },
+  {
+    "id": 4,
+    "produto": "TV"
+  },
+  {
+    "id": 5,
+    "produto": "SMARTPHONE"
+  },
+  {
+    "id": 6,
+    "produto": "TV"
+  },
+  {
+    "id": 7,
+    "produto": "BANDA LARGA"
+  },
+  {
+    "id": 8,
+    "produto": "BANDA LARGA"
+  },
+  {
+    "id": 9,
+    "produto": "SMARTPHONE"
+  },
+  {
+    "id": 10,
+    "produto": "TV"
+  },
+  {
+    "id": 11,
+    "produto": "SMARTPHONE"
+  }
+]
